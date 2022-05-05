@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm a student at Warsaw University of Technology👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusz-brzozowski&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
