@@ -18,7 +18,13 @@ Here are some ideas to get you started:
 -->
 # Projects
 
-## Warsaw University of Technology
+### Own
+
+- [Infinite Journey - 2D Unity Android Game](https://play.google.com/store/apps/details?id=com.VStarGames.InfinityDungeon)
+  - [Source Code](https://github.com/mateusz-brzozowski/InfinityDungeon.git)
+- [Lava Dungeon - 2D Unity Android Game](https://play.google.com/store/apps/details?id=com.Epitome.lavadungeons)
+
+### Warsaw University of Technology
 
 2022:
 - [Timetable for public transport - Application Programming](https://github.com/mateusz-brzozowski/PAP-STUD)
