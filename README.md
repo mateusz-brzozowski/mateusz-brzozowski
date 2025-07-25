@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - [Infinite Journey - 2D Unity Android Game](https://play.google.com/store/apps/details?id=com.VStarGames.InfinityDungeon)
   - [Source Code](https://github.com/mateusz-brzozowski/InfinityDungeon.git)
 - [Lava Dungeon - 2D Unity Android Game](https://play.google.com/store/apps/details?id=com.Epitome.lavadungeons)
+- [Mobile app for autonomous boat navigation and control](https://github.com/mateusz-brzozowski/bait_boat)
 
 ### Warsaw University of Technology
 
